@@ -1,0 +1,2 @@
+# Install system depencences by running
+cat ~/ssiptv/requirements.system | xargs sudo aptitude install

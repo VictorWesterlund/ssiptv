@@ -1,0 +1,15 @@
+{
+	"modem": {
+		"interface": "ofono",
+		"dropOnEOT": true,
+		"sleep": 3
+	},
+	"camera": {
+		"endpoint": "127.0.0.1/snapshot.png",
+		"timestamp": true
+	},
+	"sstv": {
+		"mode": "Robot36",
+		"rate": 8000
+	}
+}
